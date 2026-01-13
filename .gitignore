@@ -1,4 +1,5 @@
-# Only track index.html for GitHub Pages
+# Only track files needed for GitHub Pages
 *
 !index.html
 !.gitignore
+!.nojekyll
